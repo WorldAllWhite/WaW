@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WaW
 {
-    public partial class WaW : Form
+    public partial class frmMain : Form
     {
-        public WaW()
+        public frmMain()
         {
             InitializeComponent();
         }

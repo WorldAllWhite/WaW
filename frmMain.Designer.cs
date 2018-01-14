@@ -1,6 +1,6 @@
 ﻿namespace WaW
 {
-    partial class WaW
+    partial class frmMain
     {
         /// <summary>
         /// 必需的设计器变量。
