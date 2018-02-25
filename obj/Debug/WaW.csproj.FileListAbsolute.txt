@@ -1,1 +1,14 @@
 Z:\VM-Github-repositorys\WaW\WaW\bin\Debug\WaW.exe.config
+Z:\VM-Github-repositorys\WaW\WaW\bin\Debug\WaW.exe
+Z:\VM-Github-repositorys\WaW\WaW\bin\Debug\WaW.pdb
+Z:\VM-Github-repositorys\WaW\WaW\obj\Debug\WaW.Properties.Resources.resources
+Z:\VM-Github-repositorys\WaW\WaW\obj\Debug\WaW.frmMain.resources
+Z:\VM-Github-repositorys\WaW\WaW\obj\Debug\WaW.csproj.GenerateResource.Cache
+Z:\VM-Github-repositorys\WaW\WaW\obj\Debug\WaW.exe
+Z:\VM-Github-repositorys\WaW\WaW\obj\Debug\WaW.pdb
+Z:\VM-Github-repositorys\WaW\WaW\obj\Debug\WaW.icon.resources
+Z:\VM-Github-repositorys\WaW\WaW\obj\Debug\WaW.csprojResolveAssemblyReference.cache
+Z:\VM-Github-repositorys\WaW\WaW\obj\Debug\WaW.frmChat.resources
+Z:\VM-Github-repositorys\WaW\WaW\bin\Debug\DSkin.Design.dll
+Z:\VM-Github-repositorys\WaW\WaW\bin\Debug\DSkin.dll
+Z:\VM-Github-repositorys\WaW\WaW\bin\Debug\DSkin.xml
